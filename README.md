@@ -2,9 +2,7 @@
 
 This is a shopping cart page implemented using HTML, CSS, and JavaScript.
 
-## preview
-
-![preview image](shopping-cart.png)
+Explore the shopping cart page [here](https://sadeq-yaqobi.github.io/shoppingCartPage-addingJS/).
 
 ## Description
 
